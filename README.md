@@ -1,7 +1,7 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋,ich bin Josef</h1>
 <h3 align="center">I study web design and development at the Sae in Zurich.</h3>
-<img align="left" src"https://media3.giphy.com/media/tXfuULOVynYdYYuzo9/200.webp?cid=ecf05e47q5dtkakxqgbbbc0nak4grfbh25nmp8yp99rrbq1l&ep=v1_gifs_search&rid=200.webp&ct=g">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

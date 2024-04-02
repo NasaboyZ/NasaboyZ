@@ -1,7 +1,7 @@
+
 <h1 align="center">Hi 👋,ich bin Josef</h1>
 <h3 align="center">I study web design and development at the Sae in Zurich.</h3>
-<img align="right" alt="stewee" width="400" src="https://giphy.com/clips/AnimationOnFOX-fox-foxtv-family-guy-ROmf3SSSY7AN4yMMWV">
-
+<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/ROmf3SSSY7AN4yMMWV/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div><a href="https://giphy.com/channel/anidom" rel="noopener noreferrer" style="clear:both;display:inline-block;height:36px;line-height:18px;margin:10px 0;padding:0 0 0 44px;position:relative" target="_blank"><img alt="" src="https://media.giphy.com/avatars/anidom/q3yNyeztmIcM/80h.png" style="height:36px;left:0;position:absolute;top:0;width:36px"/><div style="font-size:16px;font-weight:bold">AniDom</div><div style="font-size:14px;font-weight:normal">@anidom</div></a><p style="margin-top:6px" > yap thats me</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

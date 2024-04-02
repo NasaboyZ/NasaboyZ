@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,ich bin Josef</h1>
 <h3 align="center">I study web design and development at the Sae in Zurich.</h3>
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/ROmf3SSSY7AN4yMMWV/video" width="480"></iframe></div>
+<div style="width:480px"><img src="https://giphy.com/embed/ROmf3SSSY7AN4yMMWV/video" width="480"/></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

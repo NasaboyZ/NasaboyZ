@@ -18,7 +18,7 @@ Hi 👋,ich bin Josef<br>I study web design and development at the Sae in Zurich
 ---
 [![](https://visitcount.itsvg.in/api?id=NasaboyZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://media0.giphy.com/media/l0HlRWOxvtUYYAC7m/giphy.gif?cid=6c09b952d2f60orvswib6dpb7qxpz05jdehfc6mskrdlm5jq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="bird" width="500" >
+<img src="https://www.behance.net/gallery/34938099/Animated-Gif" alt="bird" width="500" >
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -17,7 +17,8 @@ Hi 👋,ich bin Josef<br>I study web design and development at the Sae in Zurich
 ---
 [![](https://visitcount.itsvg.in/api?id=NasaboyZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://camo.githubusercontent.com/f066aadebe77aa024d2a085e80d407a295a1279e450942cb8e13a1c223ecbbea/68747470733a2f2f632e74656e6f722e636f6d2f63426d7a3852544b5f4a7341414141432f747970696e672d616e696d652e676966" >
+<img ![pompo-the-cinephile-typing-fast](https://github.com/user-attachments/assets/82472292-3bb2-4b43-a642-d1c13f31a926)>
+src="https://camo.githubusercontent.com/f066aadebe77aa024d2a085e80d407a295a1279e450942cb8e13a1c223ecbbea/68747470733a2f2f632e74656e6f722e636f6d2f63426d7a3852544b5f4a7341414141432f747970696e672d616e696d652e676966" >
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

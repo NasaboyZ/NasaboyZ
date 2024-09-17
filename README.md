@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋,ich bin Josef<br>I study web design and development at the Sae in Zurich
+Hi 👋,i'm  Josef<br>I study web design and development at the Sae in Zurich
 
 
 

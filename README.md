@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi 👋,i'm  Josef<br>I study web design and development at the Sae in Zurich
+Hi 👋, ich bin (angeblich) Josef…  
+Statt nur zu sagen, dass ich Web Design und Development an der SAE in Zürich studiere, seht ihr hier meine **Leidenschaft, meine Lern-Reise und wahrscheinlich auch meinen Kampf mit Semikolons oder Bugs 😂😂**.  
+
+💻 Code ist mein täglicher Workout – manchmal mit Muskelkater im Kopf.  
+🎨 Design ist mein Spielplatz – nur ohne Rutschbahn :( .  
+🚀 Mein Ziel: Projekte bauen, die nicht nur laufen, sondern auch nicht gleich stolpern.  
+
+Willkommen in meinem Repository-Dschungel – bitte nicht über die Bugs stolpern, sie sind eher Deko. 😉
 
 
 
@@ -24,3 +31,4 @@ Hi 👋,i'm  Josef<br>I study web design and development at the Sae in Zurich
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
